@@ -4,7 +4,7 @@ Is useful when we need to cater multiple variants of a family of products.
 
 Example:
 
-- Electronics: We can have ACs, Refridgerators, Televisions, Microwave ovens of multiple brands
+- Electronics: We can have ACs, Refrigerators, Televisions, Microwave ovens of multiple brands
 - Automobiles: Bikes, Cars, Trucks etc. of different brands
 - Food: Burgers with different patty, sauces etc. etc.
 
